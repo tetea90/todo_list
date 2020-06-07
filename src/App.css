@@ -1,6 +1,5 @@
 .app {
   background: #209cee;
-  align-items: center;
   padding: 30px;
   height: 100vh;
 }
@@ -9,14 +8,15 @@
   background: #e8e8e8;
   border-radius: 4px;
   padding: 5px;
-  max-width: 400px;
+  max-width: 500px;
+  margin: auto;
 }
 
 .todo {
   background: #fff;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
   padding: 3px 10px;
-  font-size: 12px;
+  font-size: 15px;
   margin-bottom: 6px;
   border-radius: 3px;
   display: flex;

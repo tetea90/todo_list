@@ -42,7 +42,7 @@ function TodoForm({ addTodo }) {
         </form>
       </div>
       <div class="control">
-        <button type="submit" class="button is-primary">Add</button>
+        <button type="submit" class="button is-primary" onClick={handleSubmit}>Add</button>
       </div>
     </div>
   );
